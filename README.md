@@ -1,2 +1,2 @@
-# tttc-v2
+# TTTC-v2
 Trash Throwing Trash Can!
