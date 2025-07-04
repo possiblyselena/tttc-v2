@@ -3,7 +3,7 @@ At Scrapyard, I had the funny idea in which, what if your trash can threw trash 
 
 ## BOM (Tenetively)
 - 1x Trash Can
-- 1x Drive Train Kit
+- 2x Drive Motors
 - 1x Servo Motors
 - 1x Motion Sensor
 - 1x ESP32 Dev Board
